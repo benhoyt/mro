@@ -1,12 +1,11 @@
 """ MRO: Map Rows to Objects with web.py.
 
-See docstrings and the UserTest class for examples. Or read my blog entry about
-MRO which lives at:
-    http://blog.brush.co.nz/2010/01/mro/
+See docstrings, README.md, and/or https://github.com/benhoyt/mro for
+documentation.
 
 MRO is released under the 3-clause "New BSD license", and is copyright (c) 2009
 Brush Technology. See the full text of the license at:
-    http://www.opensource.org/licenses/bsd-license.php
+    http://opensource.org/licenses/BSD-3-Clause
 
 """
 
