@@ -1,6 +1,8 @@
 MRO: Map Rows to Objects with web.py
 ====================================
 
+*Note: MRO was developed for an old version of web.py (0.2). I'm not maintaining it any more at this stage, but you're welcome to fork and improve it!*
+
 MRO is not an [ORM](http://en.wikipedia.org/wiki/Object-relational_mapping).
 It’s not even the reverse of an ORM. Very simply, MRO maps rows to objects.
 It’s a thin layer on top of [web.py](http://webpy.org/)’s equally thin
